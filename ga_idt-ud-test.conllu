@@ -1,36 +1,3 @@
-# sent_id = 1
-# text = Crothnófar Pól nó ba úrlabhraí maith é ar Raidió na Gaeltachta agus na meáin eile ag cosaint na n-oifigí poist tuaithe, gné am-tábhachtach de shaol sóisialta na ndaoine.
-1	Crothnófar	cruthaigh	VERB	VTI	Mood=Ind|Tense=Fut|Voice=Auto	0	root	_	_
-2	Pól	Pól	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	obj	_	_
-3	nó	nó	SCONJ	Subord	_	5	mark	_	_
-4	ba	is	AUX	Cop	Tense=Past|VerbForm=Cop	5	cop	_	_
-5	úrlabhraí	úrlabhraí	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	advcl	_	_
-6	maith	maith	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	5	amod	_	_
-7	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-8	ar	ar	ADP	Simp	_	9	case	_	_
-9	Raidió	raidió	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	5	nmod	_	_
-10	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	Gaeltachta	gaeltacht	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	compound	_	_
-12	agus	agus	CCONJ	Coord	_	14	cc	_	_
-13	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
-14	meáin	meán	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	9	conj	_	_
-15	eile	eile	DET	Det	PronType=Dem	14	det	_	_
-16	ag	ag	ADP	Simp	_	17	case	_	_
-17	cosaint	cosaint	NOUN	Noun	VerbForm=Vnoun	1	xcomp	_	_
-18	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	n-oifigí	oifig	NOUN	Noun	Case=Gen|Form=Ecl|Gender=Fem|NounType=Strong|Number=Plur	17	obj	_	_
-20	poist	post	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	19	compound	_	_
-21	tuaithe	tuath	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	19	compound	_	SpaceAfter=No
-22	,	,	PUNCT	Punct	_	23	punct	_	_
-23	gné	gné	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	19	appos	_	_
-24	am-tábhachtach	an-tábhacht	ADJ	Adj	_	23	amod	_	_
-25	de	de	ADP	Simp	_	26	case	_	_
-26	shaol	saol	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	23	nmod	_	_
-27	sóisialta	sóisialta	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	26	amod	_	_
-28	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
-29	ndaoine	duine	NOUN	Noun	Case=Gen|Form=Ecl|Gender=Masc|NounType=Strong|Number=Plur	26	compound	_	SpaceAfter=No
-30	.	.	PUNCT	.	_	1	punct	_	_
-
 # sent_id = 2
 # text = Bíonn cinn óga le haithint thar aon siorc eile óna scoilteanna fada geolbhaigh.
 1	Bíonn	bí	VERB	PresImp	_	0	root	_	_
@@ -11469,8 +11436,8 @@
 25	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 454
-# text = Feictear fosta é san eachtra ina mbuaileann Babaí an Dálach trasna na pluice (46-54), agus in iarmairt an ghnímh sin (60-62).
-1	Feictear	feic	VERB	VTI	Mood=Ind|Tense=Pres|Voice=Auto	0	root	_	_
+# text = Feictear fosta é san eachtra ina super Babaí an Dálach trasna na pluice (46-54), agus in iarmairt an ghnímh sin (60-62).
+1	Feictear	feic	VERB	VTI	Mood=Ind|Tense=Pres|Voice=Auto	_	_	_	_
 2	fosta	fosta	ADV	Gn	_	1	advmod	_	_
 3	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
 4	san	i	ADP	Art	Number=Sing|PronType=Art	5	case	_	_
@@ -11498,3 +11465,35 @@
 26	)	)	PUNCT	Punct	_	25	punct	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	1	punct	_	_
 
+# sent_id = 1
+# text = Crothnófar Pól nó ba úrlabhraí maith é ar Raidió na Gaeltachta agus na meáin eile ag cosaint na n-oifigí poist tuaithe, gné am-tábhachtach de shaol sóisialta na ndaoine.
+1	Crothnófar	cruthaigh	VERB	VTI	Mood=Ind|Tense=Fut|Voice=Auto	0	root	_	_
+2	Pól	Pól	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	obj	_	_
+3	nó	nó	SCONJ	Subord	_	5	mark	_	_
+4	ba	is	AUX	Cop	Tense=Past|VerbForm=Cop	5	cop	_	_
+5	úrlabhraí	úrlabhraí	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	advcl	_	_
+6	maith	maith	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	5	amod	_	_
+7	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+8	ar	ar	ADP	Simp	_	9	case	_	_
+9	Raidió	raidió	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	5	nmod	_	_
+10	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Gaeltachta	gaeltacht	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	compound	_	_
+12	agus	agus	CCONJ	Coord	_	14	cc	_	_
+13	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
+14	meáin	meán	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	9	conj	_	_
+15	eile	eile	DET	Det	PronType=Dem	14	det	_	_
+16	ag	ag	ADP	Simp	_	17	case	_	_
+17	cosaint	cosaint	NOUN	Noun	VerbForm=Vnoun	1	xcomp	_	_
+18	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	n-oifigí	oifig	NOUN	Noun	Case=Gen|Form=Ecl|Gender=Fem|NounType=Strong|Number=Plur	17	obj	_	_
+20	poist	post	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	19	compound	_	_
+21	tuaithe	tuath	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	19	compound	_	SpaceAfter=No
+22	,	,	PUNCT	Punct	_	23	punct	_	_
+23	gné	gné	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	19	appos	_	_
+24	am-tábhachtach	an-tábhacht	ADJ	Adj	_	23	amod	_	_
+25	de	de	ADP	Simp	_	26	case	_	_
+26	shaol	saol	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	23	nmod	_	_
+27	sóisialta	sóisialta	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	26	amod	_	_
+28	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	ndaoine	duine	NOUN	Noun	Case=Gen|Form=Ecl|Gender=Masc|NounType=Strong|Number=Plur	26	compound	_	SpaceAfter=No
+30	.	.	PUNCT	.	_	1	punct	_	_
