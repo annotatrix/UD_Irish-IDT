@@ -11443,7 +11443,7 @@
 4	san	i	ADP	Art	Number=Sing|PronType=Art	5	case	_	_
 5	eachtra	eachtra	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	obl	_	_
 6	ina	i	PART	Rel	PronType=Rel	7	obl	_	_
-7	mbuaileann	buail	VERB	VTI	Form=Ecl|Mood=Ind|Tense=Pres	5	acl:relcl	_	_
+7	mbuaileann	buail	Noun	VTI	Form=Ecl|Mood=Ind|Tense=Pres	5	acl:relcl	_	_
 8	Babaí	babaí	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	7	nsubj	_	_
 9	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
 10	Dálach	dálach	NOUN	Subst	Number=Sing	7	obj	_	_
