@@ -1671,7 +1671,7 @@
 35	.	.	PUNCT	punct	_	29	punct	_	_
 
 # sent_id = 98
-# text = Ha'eve ma cheayvu agã remoñendu mi ta agã , ch4eremiarirõ'i kuery pe , chememby'i kuery pe toendu mi agã mba'e pa ha'e .
+# text = Ha'eve ma cheayvu agã remoñendu mi ta agã , ch4er3emiarirõ'i kuery pe , chememby'i kuery pe toendu mi agã mba'e pa ha'e .
 # text_en = Good, now let my grandchildren and my children listen to my words.
 1	Ha'eve	a'eve	VERB	vi:i	_	5	discourse	_	B3-good
 2	ma	ma	PART	discprt	_	1	advmod	_	BDY
