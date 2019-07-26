@@ -11436,7 +11436,7 @@
 25	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 454
-# text = Feictear fosta é san test ina mbuaileann Babaí an Dálach trasna na pluice (46-54), agus in iarmairt an ghnímh sin (60-62).
+# text = Feictear fost1a é san test ina mbuaileann Babaí an Dálach trasna na pluice (46-54), agus in iarmairt an ghnímh sin (60-62).
 1	Feictear	feic	VERB	VTI	Mood=Ind|Tense=Pres|Voice=Auto	0	root	_	_
 2	fosta	fosta	ADV	Gn	_	1	advmod	_	_
 3	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
