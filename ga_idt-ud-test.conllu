@@ -11436,10 +11436,10 @@
 25	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 454
-# text = Feictear fosta é san eachtra ina mbuaileann Babaí an Dálach trasna na pluice (46-54), agus in iarmairt an ghnímh sin (60-62).
+# text = Feictear prosto é san eachtra ina mbuaileann Babaí an Dálach trasna na pluice (46-54), agus in iarmairt an ghnímh sin (60-62).
 1	Feictear	feic	VERB	VTI	Mood=Ind|Tense=Pres|Voice=Auto	0	root	_	_
 2	fosta	fosta	ADV	Gn	_	1	advmod	_	_
-3	é	é	NOUN	Pers	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
+3	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
 4	san	i	ADP	Art	Number=Sing|PronType=Art	5	case	_	_
 5	eachtra	eachtra	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	obl	_	_
 6	ina	i	PART	Rel	PronType=Rel	7	obl	_	_
